@@ -1,6 +1,7 @@
 -  Hi, I’m @sanadmo
 -  I’m interested about AI
--  I’m currently learning python languge and every thing about AI  
+-  I’m currently learning python languge and every thing about AI
+-  ## this for the any thing
   
 
 <!---
